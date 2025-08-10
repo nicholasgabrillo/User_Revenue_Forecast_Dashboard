@@ -24,10 +24,10 @@ It combines **Excel** for forecasting and dashboard creation with **R** for hist
 ---
 
 ## 📂 Repository Contents
-forecast_dashboard.xlsx          # Final Excel model + dashboard
-subscription_user_revenue_data.csv  # Sample data for R script
-churn_analysis.R                 # R code for KPI & churn analysis
-sample_dashboard.png             # Dashboard screenshot (optional)
+- `forecast_dashboard.xlsx` — Final Excel model + dashboard  
+- `subscription_user_revenue_data.csv` — Sample data for R script  
+- `churn_analysis.R` — R code for KPI & churn analysis  
+- `sample_dashboard.png` — Dashboard screenshot  
 
 ---
 
